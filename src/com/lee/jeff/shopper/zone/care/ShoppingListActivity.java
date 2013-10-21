@@ -37,8 +37,8 @@ public class ShoppingListActivity extends Activity {
     public static final String URL_POST = "/items.json";
     public static final String URL_PUT = "/items/$.json";
     public static final String URL_DELETE = "";
-    public static final String AUTH_KEY = "JTp5cAXrLxf8Hx843UGg";
-    public static final String LOG_TAG = "!!__!!";
+    public static final String AUTH_KEY = "ENTER_AUTH_KEY_HERE";
+    public static final String LOG_TAG = "CAREZONESHOPPER";
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
